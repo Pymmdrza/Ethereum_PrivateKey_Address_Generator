@@ -1,6 +1,14 @@
 # Ethereum Private Key Checker + Generator
 ## Ethereum Address And Private Key Generator + Checker (Hack + Crack)
 #### Ethereum Private Key and Address wallet Generated With Python
+
+> **Note**
+> [`NEW Crack Private key Script : Attack AIO CRYPTO`](https://github.com/Pymmdrza/AttackAIO_Crypto 'NEW Crack Private key Script : Attack AIO CRYPTO')
+
+> **Warning**
+> [  `New Script Created Ethereum Mnemonic Crack`](https://github.com/Pymmdrza/EthereumMnemonicCrack 'New Script Created Ethereum Mnemonic Crack')
+
+
 ### Ethereum Address Wallet With Private Key Generator and Checking Total transaction Without Api KEY 
 
 ----
